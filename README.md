@@ -1,0 +1,2 @@
+# duckTape
+duck typing test
